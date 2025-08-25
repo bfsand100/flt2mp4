@@ -20,12 +20,19 @@ This assumes the directory structure of PRIMo, whereby project data are stored w
 such as "miami_gate", as shown below:
 
 primo_gpu/
+
 ---------miami_gate/
+
 -------------------raster/
+
 -------------------vector/
+
 ---------src/
+
 ---------bin/
+
 ---------flt2mp4.c
+
 ---------flt2mp4
 
 Note there that the executable, "flt2mp4", sits within the "primo_gpu" directory
