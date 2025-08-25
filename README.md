@@ -23,19 +23,19 @@ primo_gpu/
 
 ---------miami_gate/
 
--------------------raster/
+--------------------raster/
 
--------------------vector/
+--------------------vector/
 
----------src/
+----------src/
 
----------bin/
+----------bin/
 
----------flt2mp4.c
+----------flt2mp4.c
 
----------flt2mp4
+----------flt2mp4
 
-Note there that the executable, "flt2mp4", sits within the "primo_gpu" directory
+Note that the executable, "flt2mp4", sits within the "primo_gpu" directory
 
 
 Usage proceeds as follows:
